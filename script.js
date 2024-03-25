@@ -1,4 +1,4 @@
-const words = ['Abacaxi', 'morango', 'uva', 'manga'];
+const words = ['abacaxi', 'morango', 'uva', 'manga'];
 let chosenWord = '';
 let guessedWord = '';
 let wrongLetters = [];
